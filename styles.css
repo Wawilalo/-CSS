@@ -1,0 +1,123 @@
+.social {
+background-color: aqua;
+padding: 40px;
+margin-bottom: 1000px;
+}
+
+
+ .bg-Green{
+    background:hsl(240, 100%, 66%) ;
+}
+
+.bg-blue{
+    background:rgb(2, 141, 255)  ;
+}
+
+
+.card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 30px; 
+}
+
+.avatar {
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px grey;
+}
+
+.info {
+    display: flex;
+    margin-bottom: 20px ;
+}
+
+@media (max-width: 700px) {
+.info {
+    text-align: center;
+    display: block;
+}
+}
+
+.info p {
+    color:#000000 ; 
+    margin: 1;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+    /* text-transform: ; */
+    /* letter-spacing: 10px; */
+} 
+
+.container {
+    /* max-width: 750px; */
+    margin:auto ;
+    padding-top: 30px;
+}
+
+
+
+
+
+.bg-olive {
+    background: rgb(230, 230, 0);
+}
+
+.rel { 
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    width: 405px; 
+}
+
+
+/* .table {
+    color: rgb(15, 2, 206);
+} */
+
+.bg-green {
+background: rgb(4, 185, 4);
+}
+
+.steyr {
+    padding: 15px 20px;
+    margin-bottom: 10px;
+    border-radius: 30px;
+    width: 405px;
+}
+
+.bg-red {
+   background: red; 
+}
+
+.big {
+    padding: 15px 20px;
+    margin-bottom: 10px;
+    border-radius: 40px;
+    width: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
